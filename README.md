@@ -21,7 +21,7 @@ Ideally, each submission would be correct on the first attempt, but often applic
 
 To measure the impact of applications not being first time right.
 
-We analyse on the bases of the following:
+_We analyse on the bases of the following_:
 
 • The Regions and Districts were the worst performing when it comes to first time right.
 • The impact on ‘Time to Pre-Fund Decision’ and ‘Case Time’ when a case is not first time right.
